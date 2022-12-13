@@ -22,7 +22,7 @@ Please read/watch all those materials before you start the exercise.
 7. Write a function in plotting.py that creates a scatter plot and uses the [ALLFED Style Sheet](https://github.com/allfed/ALLFED-matplotlib-style-sheet)
 8. Make your repository an installable package as described in [Good Research Code Handbook](https://goodresearch.dev/setup.html)
 9. Add a Jupyter Notebook in your scripts folder and import numerical.py and call it
-11. Write two test for numerical.py
+11. Write two tests for numerical.py
 12. Make sure that the documenation of all code follows the [ALLFED Guidelines](https://github.com/allfed/ALLFED-Repository-Template#allfed-python-style-guide)
 13. Automate the tests, so they run on every commit (you can just copy the files needed for that from [the template](https://github.com/allfed/ALLFED-Repository-Template)
 14. Create an environment.yml that specifies how your virtual environment can be recreated and save it in the repository
