@@ -10,4 +10,17 @@
 ```
 
 ---
-Plot data.
+Plots the results of the model
+
+**Arguments**
+
+* **x**  : x values to plot
+* **y**  : y values to plot
+* **title**  : title of the plot
+* **x_label**  : label for the x axis
+* **y_label**  : label for the y axis
+
+
+**Returns**
+
+None, but plots the results
